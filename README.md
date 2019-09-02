@@ -1,4 +1,4 @@
-# vue-exportExcel
+# Vue 中导出 Excel 文件
 
 1.导入文件 **Export2Excel.js**
 
