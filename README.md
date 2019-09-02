@@ -46,3 +46,11 @@ import { export_json_to_excel } from './Export2Excel'
       })
     },
 ```
+
+> 参考文件`customerInfo.vue`、`Export2Excel.js`
+
+# Vue 批量导入 Excel 文件中的数据
+
+**Excel 中表头需固定,即表头需已知**
+
+> 参考文件`carsImport.vue`
